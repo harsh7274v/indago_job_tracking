@@ -84,9 +84,6 @@ You can access the live version of the Indago web app by following this link [In
 
 - Light/Dark mode ⏳
 
-## License
-Indago is licensed under the MIT License. See the LICENSE file for more information.
-[MIT](LICENSE)
 
 
 ## Feedback
