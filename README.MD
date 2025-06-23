@@ -38,7 +38,7 @@ The backend is built with NodeJS and ExpressJS, and media uploads are handled by
 - Recharts
 
 **Backend:** 
-- [Own REST API deployed on Railway ](https://github.com/themodernmonk7/Indago-job-tracking-web-API)
+- [Own REST API deployed on Railway ](https://github.com/harsh7274v/indago-api)
 - Node.js
 - Express.js
 - MongoDB
@@ -54,7 +54,7 @@ The backend is built with NodeJS and ExpressJS, and media uploads are handled by
 - JSON Web Tokens (JWT)
 ## API
 
-You can access the REST API backend of the Indago web app by following this git repo link: [Indago REST API](https://github.com/themodernmonk7/Indago-job-tracking-web-API)
+You can access the REST API backend of the Indago web app by following this git repo link: [Indago REST API](https://github.com/harsh7274v/indago-api)
 
 
 ## Demo
